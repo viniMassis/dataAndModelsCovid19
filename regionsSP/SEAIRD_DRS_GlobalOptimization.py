@@ -111,7 +111,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.08
         #weigth for fitting data
         weigthCases=0.4
@@ -161,7 +161,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=150
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.1
         #weigth for fitting data
         weigthCases=0.4
@@ -186,7 +186,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.08
         #weigth for fitting data
         weigthCases=0.4
@@ -211,7 +211,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.1
         #weigth for fitting data
         weigthCases=0.4
@@ -236,7 +236,7 @@ def parse_arguments(districtRegion):
         start=5
         #how many days is the prediction
         prediction_days=60
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.1
         #weigth for fitting data
         weigthCases=0.3
@@ -261,7 +261,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.1
         #weigth for fitting data
         weigthCases=0.4
@@ -286,7 +286,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=60
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.08
         #weigth for fitting data
         weigthCases=0.4
@@ -312,7 +312,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.1
         #weigth for fitting data
         weigthCases=0.5
@@ -337,7 +337,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=60
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.08
         #weigth for fitting data
         weigthCases=0.4
@@ -362,7 +362,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.1
         #weigth for fitting data
         weigthCases=0.4
@@ -387,7 +387,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.08
         #weigth for fitting data
         weigthCases=0.4
@@ -413,7 +413,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.08
         #weigth for fitting data
         weigthCases=0.4
@@ -438,7 +438,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=60
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.08
         #weigth for fitting data
         weigthCases=0.4
@@ -463,7 +463,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.1
         #weigth for fitting data
         weigthCases=0.4
@@ -488,7 +488,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=70
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.1
         #weigth for fitting data
         weigthCases=0.5 
@@ -513,7 +513,7 @@ def parse_arguments(districtRegion):
         start=0
         #how many days is the prediction
         prediction_days=60
-        #as recovered data is not available, so recovered is in function of death
+        #as recovered data is not available, so recovered is in function of infected
         ratioRecovered=.08
         #weigth for fitting data
         weigthCases=0.4
